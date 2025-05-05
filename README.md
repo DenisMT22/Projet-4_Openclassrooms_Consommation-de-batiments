@@ -14,6 +14,10 @@ Explorer et décrypter les facteurs influençant la consommation énergétique d
 Élaborer un algorithme prédictif robuste pour estimer les besoins énergétiques annuels
 Affiner les paramètres du modèle pour maximiser sa précision et sa fiabilité
 
+# Source des données
+
+Les données sont à télécharger à cette adresse : https://www.kaggle.com/datasets/city-of-seattle/sea-building-energy-benchmarking#2015-building-energy-benchmarking.csv
+
 # Données analysées
 
 L'ensemble de données utilisé comporte diverses variables descriptives, notamment :
